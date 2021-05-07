@@ -12,3 +12,8 @@ The colocated sites can store arbitrary data in their SESSION data.
 Hint: 
 https://www.gremwell.com/firefox-xss-302
 Does firefox/chrome execute/show response body on a 302 respone code? What about burp/curl's default behaviour?
+
+## Natas23
+Hint:
+https://www.php.net/manual/en/language.types.numeric-strings.php
+'==' / + / > / < are loose type operators in php, implicit type conversions take place.
